@@ -1,2 +1,1 @@
-# demo_template
-demo
+# demo_RequireJS
